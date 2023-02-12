@@ -1,4 +1,4 @@
-# ASOIAFwomen
+
 q "**What type of cloth did Shiera Seastar find too vulgar?**"
 a "Cloth of gold", "Gold"
 q "**Which instrument did Naerys Targaryen play?**"
